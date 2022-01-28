@@ -1,6 +1,7 @@
 # Emotion Detection Twitter
 
-This app fetches latest 100 tweets of the Twitter username provided and shows a pie chart representing 5 different emotions based on tweets.
+This app fetches latest 100 tweets of the Twitter username provided and shows a pie chart representing 5 different emotions based on tweets. \
+Made a Machine Learning model based on Multinomial Naive Bayes Classifier which predicts the emotion of text.
 
 ## Getting Started
 
@@ -42,3 +43,5 @@ JPRQ is a free and open-source Ngrok alternative to expose local servers online 
 
 Replace the generated url in the getTweets() method in lib/networking.dart \
 Run the flutter app now.
+
+![App Screenshot](./images/screenshot.jpg)
