@@ -19,7 +19,7 @@ class NetworkHelper {
 
 Future<dynamic> getTweets(dynamic username) async {
   NetworkHelper network = NetworkHelper(
-      Uri.parse('https://anuj.jprq.io/predict/$username'));
+      Uri.parse('https://anuj.jprq.io/predict/$username')); // your api
   var tweetsData = await network.getData();
   return tweetsData;
 }
