@@ -44,4 +44,6 @@ JPRQ is a free and open-source Ngrok alternative to expose local servers online 
 Replace the generated url in the getTweets() method in lib/networking.dart \
 Run the flutter app now.
 
-![App Screenshot](./images/screenshot.jpg)
+## Screenshot
+
+<img src="./images/screenshot.jpg" alt="screenshot" height = "400" width="200">
