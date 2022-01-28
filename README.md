@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 Sign up for developer account on Twitter and get your own API credentials.
 - [Twitter API Docs](https://developer.twitter.com/en/docs/twitter-api)
 
-Replace the API keys and tokens in the app.py file.
+Replace the API keys and tokens in the model data/app.py file.
 
 ## Installing jprq
 
